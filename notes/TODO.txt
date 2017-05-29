@@ -1,3 +1,2 @@
 - Slider
 - Button
-- Checkbox
